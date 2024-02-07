@@ -1,0 +1,10 @@
+name: webapp2
+dependencies:
+  - python=3.10
+  - ipykernel
+  - pip
+  - pip:
+    - dash
+    - pandas
+
+    
