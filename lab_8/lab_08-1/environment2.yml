@@ -1,4 +1,3 @@
-name: webapp2
 dependencies:
   - python=3.10
   - pip
@@ -16,4 +15,5 @@ dependencies:
     - seaborn
     - vaderSentiment
     - ipywidgets
-    
+  solver:
+    name: classic
